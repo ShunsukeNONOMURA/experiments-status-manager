@@ -55,6 +55,8 @@ weekly generate
 
 <!--
 個人用
+- リポジトリ
+  - https://github.com/ShunsukeNONOMURA/experiments-status-manager
 - chatgpt壁打ち
   - https://chatgpt.com/c/697b0a8f-247c-8324-a534-7ac9452a2db5
 -->
